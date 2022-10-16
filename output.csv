@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+2022-09-20 05:52:21,waitpos,{}
+2022-09-20 05:52:22,enterPos,{'position': 'short'}
+2022-09-20 05:52:24,setStopLoss,{'price': 0}
+2022-09-20 05:52:26,clear,{}
+2022-09-20 05:52:27,enterPos,{'position': 'short'}
+2022-09-20 05:52:29,setStopLoss,{'price': 0}
+2022-09-20 05:52:31,clear,{}
+2022-09-20 05:52:33,enterPos,{'position': 'short'}
+2022-09-20 05:52:35,setStopLoss,{'price': 0}
+2022-09-20 05:52:37,clear,{}
+2022-09-20 05:52:38,enterPos,{'position': 'short'}
+2022-09-20 05:52:40,setStopLoss,{'price': 0}
+2022-09-20 05:52:42,clear,{}
+2022-09-20 05:53:00,waitpos,{}
+2022-09-20 05:53:01,enterPos,{'position': 'short'}
+2022-09-20 05:53:03,setStopLoss,{'price': 0}
+2022-09-20 05:53:05,clear,{}
+2022-09-20 05:53:06,enterPos,{'position': 'short'}
+2022-09-20 05:53:08,setStopLoss,{'price': 0}
+2022-09-20 05:53:10,clear,{}
+2022-09-20 05:53:11,enterPos,{'position': 'short'}
+2022-09-20 05:53:13,setStopLoss,{'price': 0}
+2022-09-20 05:53:15,clear,{}
+2022-09-20 21:52:19,waitpos,{}
+2022-09-20 21:52:22,enterPos,{'position': 'short'}
+2022-09-20 21:52:24,setStopLoss,{'price': 0}
+2022-09-20 21:52:26,clear,{}
+2022-09-20 21:52:27,enterPos,{'position': 'short'}
+2022-09-20 21:52:29,setStopLoss,{'price': 0}
+2022-09-20 21:52:31,clear,{}
+2022-09-20 21:52:32,enterPos,{'position': 'short'}
+2022-09-20 21:52:34,setStopLoss,{'price': 0}
+2022-09-20 21:52:36,clear,{}
+2022-09-20 21:52:37,enterPos,{'position': 'short'}
+2022-09-20 21:52:39,setStopLoss,{'price': 0}
+2022-09-20 21:52:41,clear,{}
+2022-09-20 22:55:29,waitpos,{}
+2022-09-20 22:55:31,enterPos,{'position': 'short'}
+2022-09-20 22:55:33,setStopLoss,{'price': 0}
+2022-09-20 22:55:35,clear,{}
+2022-09-20 22:55:38,enterPos,{'position': 'short'}
+2022-09-20 22:55:40,setStopLoss,{'price': 0}
+2022-09-20 22:55:42,clear,{}
+2022-09-20 22:55:43,enterPos,{'position': 'short'}
+2022-09-20 22:55:45,setStopLoss,{'price': 0}
+2022-09-20 22:55:47,clear,{}
+2022-09-20 22:55:48,enterPos,{'position': 'short'}
+2022-09-20 22:55:51,setStopLoss,{'price': 0}
+2022-09-20 22:55:53,clear,{}
+2022-09-20 22:56:44,waitpos,{}
+2022-09-20 22:56:47,enterPos,{'position': 'short'}
+2022-09-20 22:56:49,setStopLoss,{'price': 0}
+2022-09-20 22:56:51,clear,{}
+2022-09-20 22:56:52,enterPos,{'position': 'short'}
+2022-09-20 22:56:54,setStopLoss,{'price': 0}
+2022-09-20 22:56:56,clear,{}
+2022-09-20 22:56:57,enterPos,{'position': 'short'}
+2022-09-20 22:56:59,setStopLoss,{'price': 0}
+2022-09-20 22:57:01,clear,{}
+2022-09-20 22:57:02,enterPos,{'position': 'short'}
+2022-09-20 22:57:05,setStopLoss,{'price': 0}
+2022-09-20 22:57:07,clear,{}
+2022-09-20 22:57:31,waitpos,{}
+2022-09-20 22:58:58,waitpos,{}
+2022-09-20 22:59:03,enterPos,{'position': 'short'}
+2022-09-20 22:59:07,setStopLoss,{'price': 0}
+2022-09-20 22:59:11,clear,{}
+2022-09-20 22:59:15,enterPos,{'position': 'short'}
+2022-09-20 22:59:19,setStopLoss,{'price': 0}
+2022-09-20 22:59:23,clear,{}
+2022-09-20 22:59:26,enterPos,{'position': 'short'}
+2022-09-20 22:59:30,setStopLoss,{'price': 0}
+2022-09-20 22:59:34,clear,{}
+2022-09-20 22:59:37,enterPos,{'position': 'short'}
+2022-09-20 22:59:42,setStopLoss,{'price': 0}
+2022-09-20 22:59:46,clear,{}
+2022-09-20 23:00:11,waitpos,{}
+2022-09-20 23:00:14,enterPos,{'position': 'short'}
+2022-09-20 23:00:18,setStopLoss,{'price': 0}
+2022-09-20 23:00:22,clear,{}
+2022-09-20 23:00:26,enterPos,{'position': 'short'}
+2022-09-20 23:00:30,setStopLoss,{'price': 0}
+2022-09-20 23:00:34,clear,{}
+2022-09-20 23:00:37,enterPos,{'position': 'short'}
+2022-09-20 23:00:41,setStopLoss,{'price': 0}
+2022-09-20 23:00:43,clear,{}
+2022-09-20 23:00:44,enterPos,{'position': 'short'}
+2022-09-20 23:00:46,setStopLoss,{'price': 0}
+2022-09-20 23:00:48,clear,{}
+2022-09-20 23:03:07,waitpos,{}
+2022-09-20 23:03:08,enterPos,{'position': 'short'}
+2022-09-20 23:03:10,setStopLoss,{'price': 0}
+2022-09-20 23:03:21,clear,{}
+2022-09-20 23:03:22,enterPos,{'position': 'short'}
+2022-09-20 23:03:24,setStopLoss,{'price': 0}
+2022-09-20 23:03:26,clear,{}
+2022-09-20 23:03:27,enterPos,{'position': 'short'}
+2022-09-20 23:03:29,setStopLoss,{'price': 0}
+2022-09-20 23:03:31,clear,{}
+2022-09-20 23:03:33,enterPos,{'position': 'short'}
+2022-09-20 23:03:35,setStopLoss,{'price': 0}
+2022-09-20 23:03:37,clear,{}
+2022-09-21 00:37:40,waitpos,{}
+2022-09-21 00:37:43,enterPos,{'position': 'short'}
+2022-09-21 00:37:45,setStopLoss,{'price': 0}
+2022-09-21 00:37:47,clear,{}
+2022-09-21 00:37:48,enterPos,{'position': 'short'}
+2022-09-21 00:37:50,setStopLoss,{'price': 0}
+2022-09-21 00:37:52,clear,{}
+2022-09-21 00:37:53,enterPos,{'position': 'short'}
+2022-09-21 00:37:55,setStopLoss,{'price': 0}
+2022-09-21 00:37:57,clear,{}
+2022-09-21 00:37:58,enterPos,{'position': 'short'}
+2022-09-21 00:38:00,setStopLoss,{'price': 0}
+2022-09-21 00:38:03,clear,{}
+2022-09-21 00:38:35,enterPos,{'position': 'short'}
+2022-09-21 00:38:52,enterPos,{'position': 'long'}
+2022-09-21 00:38:54,enterPos,{'position': 'short'}
+2022-09-21 00:38:56,enterPos,{'position': 'long'}
+2022-09-21 00:40:02,enterPos,{'position': 'short'}
+2022-09-21 00:41:37,enterPos,{'position': 'short'}
+2022-09-21 00:42:31,enterPos,{'position': 'short'}
+2022-09-21 00:42:32,enterPos,{'position': 'long'}
+2022-09-21 00:42:33,enterPos,{'position': 'short'}
+2022-09-21 00:42:34,enterPos,{'position': 'long'}
+2022-09-21 00:43:10,enterPos,{'position': 'short'}
+2022-09-21 00:43:14,enterPos,{'position': 'long'}
+2022-09-21 00:43:18,enterPos,{'position': 'short'}
+2022-09-21 00:43:22,enterPos,{'position': 'long'}
+2022-09-22 00:13:49,enterPos,{'position': 'short'}
+2022-09-22 00:13:55,enterPos,{'position': 'long'}
+2022-09-22 00:14:06,enterPos,{'position': 'short'}
+2022-09-22 00:14:17,enterPos,{'position': 'long'}
+2022-09-22 00:14:28,enterPos,{'position': 'short'}
+2022-09-22 00:14:31,enterPos,{'position': 'long'}
+2022-09-22 00:14:36,enterPos,{'position': 'short'}
+2022-09-22 00:14:42,enterPos,{'position': 'long'}
+2022-09-22 00:15:22,clear,{}
+2022-09-22 00:15:53,enterPos,{'position': 'long'}
+2022-09-22 00:15:55,clear,{}
+2022-09-22 00:15:56,clear,{}
+2022-09-22 00:21:07,enterPos,{'position': 'long'}
+2022-09-22 00:21:09,clear,{}
+2022-09-22 00:21:10,clear,{}
+2022-09-22 00:21:11,setStopLoss,{'price': 0}
+2022-09-22 00:21:39,enterPos,{'position': 'long'}
+2022-09-22 00:21:41,clear,{}
+2022-09-22 00:21:42,clear,{}
+2022-09-22 00:21:43,setStopLoss,{'price': 0}
+2022-09-22 00:21:46,enterPos,{'position': 'long'}
+2022-09-22 00:21:49,clear,{}
+2022-09-22 00:21:50,clear,{}
+2022-09-22 00:21:51,setStopLoss,{'price': 0}
+2022-09-22 00:24:23,enterPos,{'position': 'long'}
+2022-09-22 00:24:59,clear,{}
+2022-09-22 00:25:09,clear,{}
+2022-09-22 00:25:19,enterPos,{'position': 'long'}
+2022-09-22 00:25:27,clear,{}
+2022-09-22 00:25:37,enterPos,{'position': 'long'}
+2022-09-22 00:26:16,enterPos,{'position': 'short'}
+2022-09-22 00:26:27,clear,{}
+2022-09-25 22:34:57,enterPos,{'position': 'long'}
+2022-09-25 22:34:58,setStopLoss,{'price': 0}
+2022-09-25 22:34:59,setStopLoss,{'price': 1}
+2022-09-25 22:35:00,setStopLoss,{'price': 23}
+2022-09-25 22:36:13,enterPos,{'position': 'long'}
+2022-09-25 22:36:14,setStopLoss,{'price': 0}
+2022-09-25 22:38:09,enterPos,{'position': 'long'}
+2022-09-25 22:38:11,setStopLoss,{'price': 0}
+2022-09-25 22:38:13,setStopLoss,{'price': 1}
+2022-09-25 22:38:16,setStopLoss,{'price': 23}
+2022-09-25 22:38:18,setStopLoss,{'price': 23}
+2022-09-25 22:38:33,enterPos,{'position': 'long'}
+2022-09-25 22:39:01,enterPos,{'position': 'long'}
+2022-09-25 22:56:41,enterPos,{'position': 'long'}
+2022-09-25 22:56:51,enterPos,{'position': 'long'}
+2022-09-25 22:57:47,enterPos,{'position': 'long'}
+2022-09-25 22:59:10,enterPos,{'position': 'long'}
+2022-09-25 23:00:47,enterPos,{'position': 'long'}
+2022-09-25 23:08:32,enterPos,{'position': 'long'}
+2022-09-25 23:09:07,enterPos,{'position': 'long'}
+2022-09-25 23:10:57,enterPos,{'position': 'long'}
+2022-09-25 23:11:02,enterPos,{'position': 'long'}
+2022-09-25 23:11:20,enterPos,{'position': 'long'}
+2022-10-03 03:57:28,enterPos,"{'position': 'long', 'raverage': '35', 'price': '19855'}"
+2022-10-03 03:57:59,enterPos,"{'position': 'long', 'raverage': '35', 'price': '19855'}"
+2022-10-03 03:58:10,enterPos,"{'position': 'long', 'raverage': '35', 'price': '19855'}"
+2022-10-03 03:58:39,enterPos,"{'position': 'long', 'raverage': '35', 'price': '19855'}"
+2022-10-03 03:59:07,enterPos,"{'position': 'long', 'raverage': '35', 'price': '19855'}"
